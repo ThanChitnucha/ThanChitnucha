@@ -15,7 +15,7 @@
 <h3 align="center">Skills</h3>
 <br/>
 <div align="center">
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+  <img src="https://skillicons.dev/icons?i=js,html,css">
 </div>
 
 
