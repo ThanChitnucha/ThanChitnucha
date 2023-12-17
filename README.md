@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chitnucha
 =================================================================================================================================
 
-A passion intern software developer from Thailand
+<h3 align="center">A passion intern software developer from Thailand</h3>
 -------------------------------------------------
 
-🌱 I'm currently learning HTML, CSS, JavaScript
+<p align="center">🌱 I'm currently learning HTML, CSS, JavaScript</p>
 
 ### Skills
 
