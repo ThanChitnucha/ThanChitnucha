@@ -1,10 +1,8 @@
 ### Hi there 👋
-<h3 align=""center>A passion intern software developer from Thailand</h3>
+<h3 align="center">A passion intern software developer from Thailand</h3>
 
 <br />
 
 <div align="center">
-  I'm currently working on **Fortune part industy**
-
-  I'm currently learning **HTML, CSS, JavaScript**
+  🌱I'm currently learning **HTML, CSS, JavaScript**
 </div>
