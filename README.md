@@ -4,5 +4,5 @@
 <br />
 
 <div align="center">
-  🌱I'm currently learning **HTML, CSS, JavaScript**
+  🌱 I'm currently learning **HTML, CSS, JavaScript**
 </div>
